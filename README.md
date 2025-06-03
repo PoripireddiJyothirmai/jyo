@@ -1,4 +1,4 @@
 # jyo
 Practice
 <br>
-Author - P Jyothirmai(JP)
+Author - P Jyothirmai
